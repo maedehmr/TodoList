@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+### Bootstrap is used for styling and context is used for state management in this project
+
+![todolist](https://user-images.githubusercontent.com/75108670/215343071-f46cf586-1434-4c40-9c72-859ec352b422.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
